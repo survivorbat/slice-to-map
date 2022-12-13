@@ -20,3 +20,17 @@ func ExampleToMap() {
 
 	fmt.Printf("%+v", testObjectsMap)
 }
+
+func ExampleToSliceMap() {
+	testObjects := []TestObject{
+		{ID: 1, Name: "Test 1"},
+		{ID: 1, Name: "Test 1"},
+		{ID: 2, Name: "Test 3"},
+	}
+
+	testObjectsMap := ToSliceMap(testObjects, func(obj TestObject) int {
+		return obj.ID
+	})
+
+	fmt.Printf("%+v", testObjectsMap)
+}
