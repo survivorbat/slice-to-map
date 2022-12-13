@@ -1,6 +1,6 @@
 # 📍 Slice to Map
 
-[![Go package](https://github.com/survivorbat/slicetomap/actions/workflows/test.yaml/badge.svg)](https://github.com/survivorbat/gorm-deep-filtering/actions/workflows/test.yaml)
+[![Go package](https://github.com/survivorbat/slice-to-map/actions/workflows/test.yaml/badge.svg)](https://github.com/survivorbat/gorm-deep-filtering/actions/workflows/test.yaml)
 
 I needed this functionality without having to download a big utility package.
 
