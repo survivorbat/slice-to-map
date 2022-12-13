@@ -1,4 +1,4 @@
-module github.com/survivorbat/slicetomap
+module github.com/survivorbat/slice-to-map
 
 go 1.18
 

@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/survivorbat/slicetomap"
+	"github.com/survivorbat/slice-to-map"
 )
 
 type TestObject struct {
