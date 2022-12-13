@@ -6,7 +6,7 @@ I needed this functionality without having to download a big utility package.
 
 ## ⬇️ Installation
 
-`go get github.com/survivorbat/slicetomap`
+`go get github.com/survivorbat/slice-to-map`
 
 ## 📋 Usage
 
